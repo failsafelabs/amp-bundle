@@ -1,0 +1,27 @@
+{
+    "name": "justinkprince/amp-bundle",
+    "description": "Symfony Bundle for adding Google AMP integration",
+    "homepage": "http://justinkprince.github.io/amp-bundle/",
+    "type": "symfony-bundle",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Justin Prince",
+            "email": "justinkprince@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {
+        "php": ">=5.3.0",
+        "symfony/framework-bundle": "~2.3|~3.0",
+        "twig/twig": "~1.23|~2.0"
+    },
+    "require-dev": {
+        "phpunit/phpunit": "~4.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "Justinkprince\\Bundle\\AmpBundle\\": ""
+        }
+    }
+}
