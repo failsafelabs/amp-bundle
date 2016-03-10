@@ -1,7 +1,7 @@
 {
-    "name": "justinkprince/amp-bundle",
+    "name": "failsafe/amp-bundle",
     "description": "Symfony Bundle for adding Google AMP integration",
-    "homepage": "http://justinkprince.github.io/amp-bundle/",
+    "homepage": "http://failsafelabs.github.io/amp-bundle/",
     "type": "symfony-bundle",
     "license": "MIT",
     "authors": [
@@ -21,7 +21,7 @@
     },
     "autoload": {
         "psr-4": {
-            "Justinkprince\\Bundle\\AmpBundle\\": ""
+            "FailsafeLabs\\Bundle\\AmpBundle\\": ""
         }
     }
 }

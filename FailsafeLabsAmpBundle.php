@@ -1,11 +1,11 @@
 <?php
 
-namespace Justinkprince\Bundle\AmpBundle;
+namespace FailsafeLabs\Bundle\AmpBundle;
 
 use Symfony\Component\DependencyInjection\ContainerBuilder;
 use Symfony\Component\HttpKernel\Bundle\Bundle;
 
-class JustinkprinceAmpBundle extends Bundle
+class FailsafeLabsAmpBundle extends Bundle
 {
     public function build(ContainerBuilder $container)
     {
