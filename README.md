@@ -8,7 +8,7 @@ Open a command console, enter your project directory and execute the
 following command to download the latest stable version of this bundle:
 
 ```bash
-$ composer require justinkprince/amp-bundle "~1"
+$ composer require failsafelabs/amp-bundle "~1"
 ```
 
 This command requires you to have Composer installed globally, as explained
@@ -33,7 +33,7 @@ class AppKernel extends Kernel
         $bundles = array(
             // ...
 
-            new Justinkprince\Bundle\AmpBundle\JustinkprinceAmpBundle(),
+            new FailsafeLabs\Bundle\AmpBundle\FailsafeLabsAmpBundle(),
         );
 
         // ...
