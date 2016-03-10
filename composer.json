@@ -1,5 +1,5 @@
 {
-    "name": "failsafe/amp-bundle",
+    "name": "failsafelabs/amp-bundle",
     "description": "Symfony Bundle for adding Google AMP integration",
     "homepage": "http://failsafelabs.github.io/amp-bundle/",
     "type": "symfony-bundle",
